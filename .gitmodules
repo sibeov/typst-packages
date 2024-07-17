@@ -1,0 +1,4 @@
+[submodule "sibeov"]
+	path = packages/sibeov
+	url = git@github.com:sibeov/typst-sibeov.git
+	branch = main
